@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(156): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(158): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+main.cpp(639): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating code
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GA.vcxproj -> D:\Documents\C语言程序设计项目\GA\Release\GA.exe
+  GA.vcxproj -> D:\Documents\C语言程序设计项目\GA\Release\GA.pdb (Full PDB)

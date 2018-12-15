@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\documents\c语言程序设计项目\ga\ga\main.cpp(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\c语言程序设计项目\ga\ga\main.cpp(135): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+d:\documents\c语言程序设计项目\ga\ga\main.cpp(616): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  GA.vcxproj -> D:\Documents\C语言程序设计项目\GA\Debug\GA.exe
+  GA.vcxproj -> D:\Documents\C语言程序设计项目\GA\Debug\GA.pdb (Full PDB)
